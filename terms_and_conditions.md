@@ -1,0 +1,50 @@
+Terms of Use
+
+This site and the mobile applications and services available in connection with this site and mobile application (the “App”) that are made available to you by inapay AG, Zug  (“inapay”, “We”) are subject to these Terms of Service, including those set forth in the Privacy Policy. By accessing, using or downloading any materials from the App or its website, you agree to follow and be bound by the Terms, which may be updated by us from time to time without notice to you. You can review the most current version of the Terms at any time here. We and third party providers may make improvements and/or changes in the products, services, mobile applications, features, programs, and prices described in this App at any time without notice. If you do not agree with the Terms, please do not use this App. BY CONTINUING TO USE THE APP, YOU ARE INDICATING YOUR AGREEMENT TO THE TERMS AND ALL REVISIONS THEREOF.
+
+We reserve the right at any time and from time to time to modify or discontinue, temporarily or permanently, the App or any portion thereof with or without notice. You agree that we shall not be liable to you or to any third party for any modification, suspension or discontinuance of the App or any portion thereof.
+
+Subscription payments, renewals, and cancellation
+
+If you choose to buy an inapay subscription, payment will be charged to your Apple ID account at the confirmation of purchase. The subscription automatically renews unless it is canceled at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period. You can manage and cancel your subscriptions by going to your account settings on the App Store after purchase.
+
+All purchases are final. inapay cannot issue refunds for purchases charged to your Apple ID.
+
+User conduct
+
+You are solely responsible for maintaining the confidentiality of the password associated with your account and for restricting access to your password and to your computer while logged into the App or website. You accept responsibility for all activities that occur under your account or from your computer. We endeavor to use reasonable security measures to protect against unauthorized access to your account. We cannot, however, guarantee absolute security of your account, your Content or the personal information you provide, and we cannot promise that our security measures will prevent third-party “hackers” from illegally accessing the App, the website or its contents. You accept all risks of unauthorized access to the User Data and any other information you provide to us.
+
+You acknowledge, consent and agree that we may access, preserve and disclose your User Data, Payment Method information, and other Content if required to do so by law or in a good faith belief that such access preservation or disclosure is reasonably necessary to: (a) comply with legal process; (b) enforce the Terms; (c) respond to your requests for customer service; or (d) protect the rights, property or personal safety of us, its users and the public. Subject to the foregoing, we will use reasonable efforts to maintain the confidentiality of your User Data and other information.
+
+
+Proprietary Rights
+
+You acknowledge and agree that the App and the website used in connection with the App (if any) contain proprietary and confidential information that is protected by applicable intellectual property and other laws. Except as expressly permitted by applicable law or authorized by us or applicable third party service providers or advertisers, you agree not to modify, rent, lease, loan, sell, distribute or create derivative works based on the App, the software or Content available on the App (other than Content that you may submit), in whole or in part.
+
+We grant you a personal, non-transferable and non-exclusive right and license to access and use the App; provided that you do not (and do not allow any third party to) copy, modify, create a derivative work from, reverse engineer, reverse assemble, or otherwise attempt to discover any source code, sell, assign, sublicense, grant a security interest in or otherwise transfer any right in the App. You agree not to access the App by any means other than through the interface that is provided by us for use in accessing the App.
+
+
+We reserve all rights not expressly granted hereunder.
+
+Disclaimer of Warranties and Liability
+
+THE INFORMATION, SOFTWARE, PRODUCTS, SERVICES, AND CONTENT AVAILABLE IN THE APP ARE PROVIDED TO YOU “AS IS” AND WITHOUT WARRANTY. INAPAY AG AND ITS SUBSIDIARIES, AFFILIATES, OFFICERS, EMPLOYEES, AGENTS, PARTNERS, AND LICENSORS HEREBY DISCLAIM ALL WARRANTIES WITH REGARD TO SUCH INFORMATION, SOFTWARE, PRODUCTS, SERVICES AND CONTENT, INCLUDING, WITHOUT LIMITATION, ALL IMPLIED WARRANTIES AND CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NONINFRINGEMENT. INAPAY AG AND ITS SUBSIDIARIES, AFFILIATES, OFFICERS, EMPLOYEES, AGENTS, PARTNERS, AND LICENSORS MAKE NO WARRANTY THAT (a) THE SERVICE WILL MEET YOUR REQUIREMENTS; (b) THE SERVICE WILL BE UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE; (c) THE RESULTS THAT MAY BE OBTAINED FROM THE USE OF THE SERVICE WILL BE ACCURATE OR RELIABLE; (d) THE QUALITY OF ANY PRODUCTS, SERVICES, INFORMATION, OR OTHER MATERIAL PURCHASED OR OBTAINED BY YOU THROUGH THE SERVICE WILL MEET YOUR EXPECTATIONS; AND (e) ANY ERRORS IN THE APP WILL BE CORRECTED.
+
+YOU EXPRESSLY AGREE TO RELEASE INAPAY AG, ITS SUBSIDIARIES, AFFILIATES, OFFICERS, AGENTS, REPRESENTATIVES, EMPLOYEES, PARTNERS AND LICENSORS (THE “RELEASED PARTIES”) FROM ANY AND ALL LIABILITY CONNECTED WITH YOUR ACTIVITIES, AND PROMISE NOT TO SUE THE RELEASED PARTIES FOR ANY CLAIMS, ACTIONS, INJURIES, DAMAGES, OR LOSSES ASSOCIATED WITH YOUR ACTIVITIES. YOU ALSO AGREE THAT IN NO EVENT SHALL THE RELEASED PARTIES BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY DIRECT, INDIRECT, PUNITIVE, INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF OR IN ANY WAY CONNECTED WITH (a) YOUR USE OR MISUSE OF THE APP, (b) YOUR DEALINGS WITH THIRD PARTY SERVICE PROVIDERS OR ADVERTISERS AVAILABLE THROUGH THE APP, (c) ANY DELAY OR INABILITY TO USE THE APP EXPERIENCED BY YOU, (d) ANY INFORMATION, SOFTWARE, PRODUCTS, SERVICES, OR CONTENT OBTAINED THROUGH THE APP, WHETHER BASED ON CONTRACT, TORT, STRICT LIABILITY, OR OTHERWISE, EVEN IF INAPAY AG HAS BEEN ADVISED OF THE POSSIBILITY OF DAMAGES. BECAUSE SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, THE ABOVE LIMITATION MAY NOT APPLY TO YOU.
+
+Indemnity
+
+You agree to indemnify and hold us and our subsidiaries, affiliates, officers, agents, representatives, employees, partners and licensors harmless from any claim or demand, including reasonable attorneys’ fees, made by any third party due to or arising out of Content you submit, post, transmit or otherwise seek to make available through the App, your use of the App, your connection to the App, your violation of the Terms, or your violation of any rights of another person or entity.
+
+Termination
+
+You agree that we may, under certain circumstances and without prior notice, immediately terminate your account and/or access to the App. Cause for such termination shall include, but not be limited to, (a) breaches or violations of the Terms or other incorporated agreements or guidelines, (b) requests by law enforcement or other government agencies, (c) a request by you (self-initiated account deletions), (d) discontinuance or material modification to the App (or any portion thereof), (e) unexpected technical or security issues or problems, (f) extended periods of inactivity, and/or (g) nonpayment of any fees owed by you in connection with the App. Termination of your account may include (x) removal of access to all offerings within the App, (y) deletion of your information, files and Content associated with or inside your account, and (z) barring of further use of the App. Further, you agree that all terminations for cause shall be made in our sole discretion and that we shall not be liable to you or any third party for any termination of your account or access to the App.
+
+Applicable laws
+
+This App is controlled by INAPAY AG, from its offices within Zug,Switzerland. We make no representation that the Content in the App or the App are appropriate or available for use in other locations, and access to them from territories where their content or use is illegal is prohibited. Those who choose to access this App from locations outside of Switzerland do so on their own initiative and are responsible for compliance with applicable local laws. In any case, the applicable jurisdiction is Zug, Switzerland.
+
+
+General
+
+The Terms constitute the entire agreement between you and inapay AG with respect to your use of the App and affiliated services except the use of the chosen broker(s). The failure of us to exercise or enforce any right or provision of the Terms shall not constitute a waiver of such right or provision. If any provision of the Terms is found by a court of competent jurisdiction to be invalid, the parties nevertheless agree that the court should endeavor to give effect to the parties’ intentions as reflected in the provision, and the other provisions of the Terms remain in full force and effect. You may not assign, delegate or otherwise transfer your account or your obligations under these Terms without the prior written consent of us. We have the right, in its sole discretion, to transfer or assign all or any part of its rights under these Terms and will have the right to delegate or use third party contractors to fulfill its duties and obligations under these Terms and in connection with the App. Our notice to you via email, regular mail, or notices or links on the App shall constitute acceptable notice to you under the Terms. Section titles and headings in the Terms are for convenience only and have no legal or contractual effect. Any rights not expressly granted herein are reserved.
